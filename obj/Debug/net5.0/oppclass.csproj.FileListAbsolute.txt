@@ -1,0 +1,15 @@
+/Users/orkhangahramanli/Desktop/oppclass/bin/Debug/net5.0/oppclass.deps.json
+/Users/orkhangahramanli/Desktop/oppclass/bin/Debug/net5.0/oppclass.runtimeconfig.json
+/Users/orkhangahramanli/Desktop/oppclass/bin/Debug/net5.0/oppclass.runtimeconfig.dev.json
+/Users/orkhangahramanli/Desktop/oppclass/bin/Debug/net5.0/oppclass.dll
+/Users/orkhangahramanli/Desktop/oppclass/bin/Debug/net5.0/ref/oppclass.dll
+/Users/orkhangahramanli/Desktop/oppclass/bin/Debug/net5.0/oppclass.pdb
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.csproj.AssemblyReference.cache
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.AssemblyInfoInputs.cache
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.AssemblyInfo.cs
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.csproj.CoreCompileInputs.cache
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.dll
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/ref/oppclass.dll
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.pdb
+/Users/orkhangahramanli/Desktop/oppclass/obj/Debug/net5.0/oppclass.genruntimeconfig.cache
